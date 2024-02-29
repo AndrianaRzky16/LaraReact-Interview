@@ -504,3 +504,5 @@ Response JSON:
 }
 
 ```
+
+## php artisan db:seed untuk memasukkan seeders category dan product
